@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:laureline.dalaut@proton.cme'
     label: E-mail Me
-  - icon: /assets/media/icons/ResearchGate_icon.svg
+  - icon: custom/researchgate
     url: https://www.researchgate.net/profile/Laureline-Dalaut
   - icon: brands/github
     url: https://github.com/LaurelineD
