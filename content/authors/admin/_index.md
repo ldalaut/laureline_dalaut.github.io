@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:laureline.dalaut@proton.cme'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/researchgate
     url: https://www.researchgate.net/profile/Laureline-Dalaut
   - icon: brands/github
     url: https://github.com/LaurelineD
@@ -61,8 +61,7 @@ education:
     institution: University of Technology of Compiègne, Sorbonne University Alliance (France)
     date_start: 2020
     date_end: 2017
-    summary: 
-
+    summary: |
       Courses included:
       - Advanced Mechanics – Materials Properties
       - Programming and algorithms
