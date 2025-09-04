@@ -89,7 +89,7 @@ work:
     company_logo: ''
     date_start: 2024
     date_end: 2025
-    summary:
+    summary: |
     Training for European doctoral and post-doctoral students for more sustainable research within YUFE (Young Universities for the Future of Europe)
       Responsibilities include:
       - Development of training on eco-design tools and reducing environmental impact in a research laboratory
@@ -104,7 +104,7 @@ work:
     summary: |
       Responsibilities include:
       - Project management
-      - - Conducting environmental and social life cycle assessments
+      - Conducting environmental and social life cycle assessments
       - Support for environmental initiatives and eco-design
       - Development of tools for assessing environmental issues (environmental footprint calculator)
       - Training in environmental and social LCA tools
