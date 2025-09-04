@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Laureline Dalaut
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Laureline
+last_name: Dalaut
 
 # Status emoji
 status:
@@ -20,92 +20,96 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: MARBEC
+    url: https://umr-marbec.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:laureline.dalaut@proton.cme'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.researchgate.net/profile/Laureline-Dalaut
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/LaurelineD
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/laureline-dalaut/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0002-7973-0622
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Marine ecosystem model
+  - Climate change
+  - Marine ecology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in marine ecology
+    institution: Montpellier University (France)
+    date_start: 2023-04-01
+    date_end: 2026-03-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+       Impact of climate change on global marine ecosystems. Supervised by Olivier Maury and Matthieu Lengaigne.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      url: https://theses.fr/s364345
+  - area: Mechanical engineering diploma, industrial design speciality
+    institution: University of Technology of Compiègne, Sorbonne University Alliance (France)
+    date_start: 2020
+    date_end: 2017
+    summary: 
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Advanced Mechanics – Materials Properties
+      - Programming and algorithms
+      - Mathematical techniques for engineers – Numerical modelling of engineering problems
+      - Eco-design – Ergonomy
+      - Science and Debate
+  - area: Integrated Preparation Course
+    institution: University of Technology of Belfort-Montbéliard
+    date_start: 2015
+    date_end: 2017
     summary: |
-      GPA: 3.4/4.0
+      A semester of academic exchange at Shanghai University (China - 2017)
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Fundamental mechanics
+      - Numerical analysis
+      - Programming and algorithms 
+      - Electricity
+      - Intercultural management
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Teacher
+    company_name: Sorbonne Universities
+    company_url: https://evea-conseil.com/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
+    date_start: 2024
+    date_end: 2025
+    summary:
+    Training for European doctoral and post-doctoral students for more sustainable research within YUFE (Young Universities for the Future of Europe)
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Development of training on eco-design tools and reducing environmental impact in a research laboratory
+      - Creation of a serious game to implement impact reduction actions within a laboratory
+      - Facilitation of training
+  - position: Consulting engineer in eco-design and life cycle analysis
+    company_name: EVEA
+    company_url: https://evea-conseil.com/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020
+    date_end: 2023
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Project management
+      - - Conducting environmental and social life cycle assessments
+      - Support for environmental initiatives and eco-design
+      - Development of tools for assessing environmental issues (environmental footprint calculator)
+      - Training in environmental and social LCA tools
+      - Training in eco-design and social issues
+      - Raising awareness of environmental communication
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -128,11 +132,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Swimming
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Cycling
         description: ''
         percent: 100
         icon: cat
@@ -142,12 +146,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: French
     percent: 100
+  - name: English
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
