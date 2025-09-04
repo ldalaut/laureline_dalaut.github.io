@@ -89,7 +89,7 @@ work:
     date_start: 2024
     date_end: 2025
     summary: |
-    Training for European doctoral and post-doctoral students for more sustainable research within YUFE (Young Universities for the Future of Europe)
+      Training for European doctoral and post-doctoral students for more sustainable research within YUFE (Young Universities for the Future of Europe)
       Responsibilities include:
       - Development of training on eco-design tools and reducing environmental impact in a research laboratory
       - Creation of a serious game to implement impact reduction actions within a laboratory
