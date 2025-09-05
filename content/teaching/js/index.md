@@ -1,5 +1,6 @@
 ---
-title: Doctoral training : Sustanaible research
+title: |
+  Doctoral training : Sustanaible research
 summary: tools you can use in your laboratory or research project to reduce the environmental impact of your professional activities
 date: 2025-06-01
 type: docs
