@@ -13,7 +13,6 @@ authors:
 # Author notes (optional)
 
 date: '2025-06-01T00:00:00Z'
-doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-06-01T00:00:00Z'
@@ -31,9 +30,6 @@ abstract: 'Pelagic ecosystems span the global ocean, supporting a wide range of 
 As climate change rapidly alters ocean conditions, the ecological impacts on pelagic ecosystems are becoming more pronounced, highlighting an urgent need to deepen our understanding of how these ecosystems respond to climate variability and human pressures. While current ecosystem models can predict shifts in the spatial distribution of fish, many uncertainties remain, particularly around the mechanisms driving ecosystem dynamics and the complexity of trophic interactions.
 The mechanistic model APECOSM is utilized to explore the spatial dynamics of six generic pelagic communities, from the surface to 1,000 meters depth. This approach helps to uncover how these ecosystems adapt to climate change, identifying key processes such as primary production and temperature fluctuations that influence ecosystem responses. The findings provide valuable insights into the evolution of three-dimensional spatial structuring in pelagic ecosystems, offering a clearer picture of their functioning and resilience in a changing climate.'
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
 tags:
   - Marine ecosystem model
 
@@ -45,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: conference-paper.pdf
+url_pdf: publication/conference-paper/conference-paper.pdf
 url_poster: 'https://github.com/LaurelineD/OOSC_poster'
 
 # Featured image
