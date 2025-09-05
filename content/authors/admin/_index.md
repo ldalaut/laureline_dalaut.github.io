@@ -59,8 +59,8 @@ education:
       url: https://theses.fr/s364345
   - area: Mechanical engineering diploma, industrial design speciality
     institution: University of Technology of Compiègne, Sorbonne University Alliance (France)
-    date_start: 2020
-    date_end: 2017
+    date_start: 2017-09-01
+    date_end: 2020-06-01
     summary: |
       Courses included:
       - Advanced Mechanics – Materials Properties
@@ -86,8 +86,8 @@ work:
     company_name: Sorbonne Universities
     company_url: https://evea-conseil.com/
     company_logo: ''
-    date_start: 2024
-    date_end: 2025
+    date_start: 2024-06-01
+    date_end: 2025-06-01
     summary: |
       Training for European doctoral and post-doctoral students for more sustainable research within YUFE (Young Universities for the Future of Europe)
       Responsibilities include:
@@ -98,8 +98,8 @@ work:
     company_name: EVEA
     company_url: https://evea-conseil.com/
     company_logo: ''
-    date_start: 2020
-    date_end: 2023
+    date_start: 2020-02-01
+    date_end: 2023-02-01
     summary: |
       Responsibilities include:
       - Project management
@@ -138,7 +138,7 @@ skills:
       - name: Cycling
         description: ''
         percent: 100
-        icon: cat
+        icon: bike
       - name: Photography
         description: ''
         percent: 80
