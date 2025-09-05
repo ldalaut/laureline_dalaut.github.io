@@ -70,8 +70,8 @@ education:
       - Science and Debate
   - area: Integrated Preparation Course
     institution: University of Technology of Belfort-Montbéliard
-    date_start: 2015
-    date_end: 2017
+    date_start: 2015-09-01
+    date_end: 2017-07-01
     summary: |
       A semester of academic exchange at Shanghai University (China - 2017)
       
@@ -138,7 +138,7 @@ skills:
       - name: Cycling
         description: ''
         percent: 100
-        icon: bike
+        icon: cat
       - name: Photography
         description: ''
         percent: 80
