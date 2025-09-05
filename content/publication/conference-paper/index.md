@@ -24,8 +24,8 @@ publishDate: '2025-06-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *One Ocean Science Congress Conference*
+publication_short: In *OOSC*
 
 abstract: 'Pelagic ecosystems span the global ocean, supporting a wide range of species from iconic predators like sharks and rays to essential fishery resources, including offshore species such as tuna and swordfish, as well as smaller coastal fish like anchovies and sardines. Equally vital, though less visible, are mesopelagic organisms, which play a crucial role in carbon export and climate regulation. These ecosystems are marked by distinct vertical layers, horizontal variability, and temporal changes, presenting significant challenges for global-scale modeling. The scarcity of comprehensive, synoptic observations further complicates the calibration and validation of these models.
 As climate change rapidly alters ocean conditions, the ecological impacts on pelagic ecosystems are becoming more pronounced, highlighting an urgent need to deepen our understanding of how these ecosystems respond to climate variability and human pressures. While current ecosystem models can predict shifts in the spatial distribution of fish, many uncertainties remain, particularly around the mechanisms driving ecosystem dynamics and the complexity of trophic interactions.
@@ -45,14 +45,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: conference-paper.pdf
+url_poster: 'https://github.com/LaurelineD/OOSC_poster'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
