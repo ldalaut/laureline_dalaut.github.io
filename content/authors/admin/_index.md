@@ -136,9 +136,21 @@ skills:
         icon: person-simple-walk
       - name: Cycling
         description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Running
+        description: ''
         percent: 100
-        icon: cat
+        icon: person-simple-walk
+      - name: Painting
+        description: ''
+        percent: 80
+        icon: camera
       - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+      - name: Ceramic
         description: ''
         percent: 80
         icon: camera
