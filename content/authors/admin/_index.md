@@ -122,7 +122,33 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Git
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Soft Skills
+    items:
+      - name: Adaptability
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Analytical skills
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: Ability to synthesise information
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Critical thinking
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Rigour
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: Valuing information
         description: ''
         percent: 40
         icon: circle-stack
