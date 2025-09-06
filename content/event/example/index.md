@@ -36,5 +36,3 @@ featured: false
 image:
   caption: 'Image credit: [**UMR Marbec**](https://umr-marbec.fr/)'
   focal_point: Right
-
-
