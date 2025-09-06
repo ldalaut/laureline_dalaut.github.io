@@ -1,5 +1,5 @@
 ---
-title: 'Modeling the Future of Ocean Ecosystems in a Changing Climat'
+title: 'Poster : Modeling the Future of Ocean Ecosystems in a Changing Climat'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -32,6 +32,7 @@ The mechanistic model APECOSM is utilized to explore the spatial dynamics of six
 
 tags:
   - Marine ecosystem model
+  - Climate change
 
 # Display this page in the Featured widget?
 featured: true
