@@ -144,7 +144,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Ability to synthesise information
+      - name: Synthesis capability
         description: ''
         percent: 40
         icon: circle-stack
