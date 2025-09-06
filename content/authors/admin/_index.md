@@ -122,7 +122,7 @@ skills:
         description: ''
         percent: 50
         icon: circle-stack
-      - name: Ecosystem modellig
+      - name: Ecosystem modelling
         description: ''
         percent: 100
         icon: code-bracket
