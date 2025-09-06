@@ -35,11 +35,8 @@ abstract: |
   We first show that the modelled horizontal and vertical distributions are consistent with the observed data. We then analyse the role of key environmental drivers, such as temperature, light, primary production, currents and oxygen on the response of the communities. Finally, we explore the trophic functioning of pelagic ecosystems, focusing on the emergent diets of communities and their variation with organism size.
   This study demonstrates the ability of a mechanistic ecosystem model to represent the multidimensional structural heterogeneity of marine ecosystems globally (encompassing three-dimensional distribution, size variations, and community composition) from a small set of universal principles and well-defined hypotheses. This approach helps to understand how the various processes at stake act and interact to shape the structure of global pelagic ecosystems, and eventually elucidate the heterogeneity of their trophic functioning.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
 tags:
-- Source Themes
+- Marine Ecosystem Model
 featured: false
 
 # links:
