@@ -53,7 +53,9 @@ education:
     date_start: 2023-04-01
     date_end: 2026-03-31
     summary: |
-       Impact of climate change on global marine ecosystems. Supervised by Olivier Maury and Matthieu Lengaigne.
+       Impact of climate change on global marine ecosystems.
+      Marine ecosystems are changing rapidly due to excessive fishing, climate change and multiple anthropogenic disturbances, and the essential ecosystem services they provide are under threat. In particular, marine resources, which provide livelihoods and essential protein for people around the world, are expected to decline sharply in the future. In this context, this thesis uses a marine ecosystem model to study the impact of global climate change. The APECOSM model will represent the ecological dynamics of six pelagic communities from the surface to a depth of 1,000 metres. This research is being conducted in collaboration with the FishMIP international model intercomparison programme, with the aim of contributing to the work of the IPCC (Intergovernmental Panel on Climate Change) and the IPBES (Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services).
+      Supervised by Olivier Maury and Matthieu Lengaigne.
     button:
       text: 'Read Thesis'
       url: https://theses.fr/s364345
