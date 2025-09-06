@@ -118,13 +118,21 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
       - name: Git
         description: ''
-        percent: 40
+        percent: 50
+        icon: circle-stack
+      - name: Ecosystem modellig
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Marine biology
+        description: ''
+        percent: 70
+        icon: chart-bar
+      - name: Life cycle assessment
+        description: ''
+        percent: 100
         icon: circle-stack
   - name: Soft Skills
     items:
