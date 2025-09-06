@@ -1,75 +1,40 @@
 ---
-title: Example Talk
+title: 'Which processes structure global pelagic ecosystems and control their trophic functioning? Insights from the mechanistic model APECOSM.'
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: IOTC 21st Working Party on Ecosystems and Bycatch
+event_url: https://iotc.org/meetings/21st-working-party-ecosystems-and-bycatch-wpeb21
 
-location: Hugo Blox Builder HQ
+location: Sète
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street:  87 Av. Jean Monnet
+  city: Sète
+  postcode: '34200'
+  country: France
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Publication presentation.
+abstract: 'Pelagic ecosystems are distributed throughout the world’s seas and oceans. They are characterised by strong vertical structuring, horizontal heterogeneity and temporal variability, which pose significant challenges for modelling them on a global scale. In this paper, we use the mechanistic high trophic level model APECOSM (Apex Predators ECOSystem Model) to assess how the physical and biogeochemical environment constrains the structure and trophic functioning of pelagic ecosystems worldwide. To this end, we configure the model to represent the three-dimensional and size-structured dynamics of six generic pelagic communities: small and medium epipelagics, tropical tunas, mesopelagic feeding tunas, small coastal pelagics, mesopelagic residents and mesopelagic migrants. We analyse their emergent three-dimensional spatial structuring on a global scale. We first show that the modelled horizontal and vertical distributions are consistent with the observed data. We then analyse the role of key environmental drivers, such as temperature, light, primary production, currents and oxygen on the response of the communities. Finally, we explore the trophic functioning of pelagic ecosystems, focusing on the emergent diets of communities and their variation with organism size. This study demonstrates the ability of a mechanistic ecosystem model to represent the multidimensional structural heterogeneity of marine ecosystems globally (encompassing three-dimensional distribution, size variations, and community composition) from a small set of universal principles and well-defined hypotheses. This approach helps to understand how the various processes at stake act and interact to shape the structure of global pelagic ecosystems, and eventually elucidate the heterogeneity of their trophic functioning.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-09-11T13:00:00Z'
+date_end: '2025-09-11T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-09-12T00:00:00Z'
 
 authors:
-  - admin
+  - Laureline Dalaut
 
-tags: []
+tags: |
+  - Marine Ecosystem Model
+  - Model Assessment
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**UMR Marbec**](https://umr-marbec.fr/)'
   focal_point: Right
 
-#links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
----
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
