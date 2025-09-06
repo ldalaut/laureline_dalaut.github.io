@@ -62,7 +62,6 @@ education:
     date_start: 2017-09-01
     date_end: 2020-06-01
     summary: |
-      Courses included:
       - Advanced Mechanics – Materials Properties
       - Programming and algorithms
       - Mathematical techniques for engineers – Numerical modelling of engineering problems
@@ -90,7 +89,6 @@ work:
     date_end: 2025-06-01
     summary: |
       Training for European doctoral and post-doctoral students for more sustainable research within YUFE (Young Universities for the Future of Europe)
-      Responsibilities include:
       - Development of training on eco-design tools and reducing environmental impact in a research laboratory
       - Creation of a serious game to implement impact reduction actions within a laboratory
       - Facilitation of training
@@ -101,7 +99,6 @@ work:
     date_start: 2020-02-01
     date_end: 2023-02-01
     summary: |
-      Responsibilities include:
       - Project management
       - Conducting environmental and social life cycle assessments
       - Support for environmental initiatives and eco-design
