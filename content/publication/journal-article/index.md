@@ -1,5 +1,5 @@
 ---
-title: "Article : Which processes structure global pelagic ecosystems and control their trophic functioning? Insights from the mechanistic model APECOSM"
+title: "Which processes structure global pelagic ecosystems and control their trophic functioning? Insights from the mechanistic model APECOSM"
 authors:
 - Laureline Dalaut
 - Nicolas Barrier
