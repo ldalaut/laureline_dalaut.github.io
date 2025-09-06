@@ -59,7 +59,7 @@ education:
     button:
       text: 'Read Thesis'
       url: https://theses.fr/s364345
-  - area: Mechanical engineering diploma, industrial design speciality
+  - area: Mechanical engineering degree, industrial design speciality
     institution: University of Technology of Compiègne, Sorbonne University Alliance (France)
     date_start: 2017-09-01
     date_end: 2020-06-01
