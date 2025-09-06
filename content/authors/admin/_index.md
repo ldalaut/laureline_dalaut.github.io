@@ -70,7 +70,7 @@ education:
       - Eco-design – Ergonomy
       - Science and Debate
   - area: Integrated Preparation Course
-    institution: University of Technology of Belfort-Montbéliard
+    institution: University of Technology of Belfort-Montbéliard (France)
     date_start: 2015-09-01
     date_end: 2017-07-01
     summary: |
@@ -84,7 +84,7 @@ education:
       - Intercultural management
 work:
   - position: Teacher
-    company_name: Sorbonne Universities
+    company_name: Sorbonne Universities (France)
     company_url: https://evea-conseil.com/
     company_logo: ''
     date_start: 2024-06-01
@@ -95,7 +95,7 @@ work:
       - Creation of a serious game to implement impact reduction actions within a laboratory
       - Facilitation of training
   - position: Consulting engineer in eco-design and life cycle analysis
-    company_name: EVEA
+    company_name: EVEA (France)
     company_url: https://evea-conseil.com/
     company_logo: ''
     date_start: 2020-02-01
