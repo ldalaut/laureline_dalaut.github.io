@@ -35,7 +35,16 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in marine ecosystem modelling. 
+        I'm a research scientist in marine ecosystem modelling.
+        Having specialised in marine ecology, I have gained experience in industry, research and teaching. My activities cover a wide range of areas, reflecting my desire for multidisciplinarity and overall scientific progress.
+
+        - Research in marine ecology and ecosystem modelling 🐠
+        - Mechanical engineering ⚙️
+        - Scientific mediation 🗣️
+        - Environmental analysis of projects and products 🌏
+        - Project management 📑
+
+        I am convinced that progress in the future will only be achieved by promoting interactions between science and society. Promoting research is a key issue at present and one that should not be overlooked!
         
         Please reach out to collaborate 😃
     design:
