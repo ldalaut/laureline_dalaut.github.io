@@ -2,6 +2,10 @@
 title: "Under review : How contrasted environments in the Humboldt Current System, Pacific Warm Pool and South Pacific Gyre, shape contrasted ecosystems. A modeling approach using APECOSM."
 authors:
 - admin
+- Nicolas Barrier
+- Matthieu Lengaigne
+- Olivier Maury
+  
 date: "2025-09-07T00:00:00Z"
 doi: ""
 
