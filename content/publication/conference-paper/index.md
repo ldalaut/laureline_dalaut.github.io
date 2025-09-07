@@ -5,7 +5,7 @@ title: 'Poster : Modeling the Future of Ocean Ecosystems in a Changing Climat'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Laureline Dalaut
+  - admin
   - Nicolas Barrier
   - Matthieu Lengaigne
   - Olivier Maury
