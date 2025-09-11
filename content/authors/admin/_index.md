@@ -194,6 +194,8 @@ languages:
     percent: 100
   - name: English
     percent: 90
+  - name: German
+    percent: 50
   - name: Chinese
     percent: 50
 
