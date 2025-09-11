@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Laureline Dalaut
-date: 2022-10-24
+date: 2025-09-11
 type: landing
 
 design:
@@ -46,7 +46,10 @@ sections:
 
         I am convinced that progress in the future will only be achieved by promoting interactions between science and society. Promoting research is a key issue at present and one that should not be overlooked!
         
-        Please reach out to collaborate 😃
+        Want to know more about my PhD ? Here is my presentation during the "3 minutes thesis" competition (in french only) :
+        ** Impact of climate change on global marine ecoystems **
+        {{< [youtube D2vj0WcvH5c](https://www.youtube.com/watch?v=96Kx1-Oygvc) >}}
+    
     design:
       columns: '1'
   - block: collection
