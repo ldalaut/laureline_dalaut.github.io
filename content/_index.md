@@ -47,7 +47,7 @@ sections:
         I am convinced that progress in the future will only be achieved by promoting interactions between science and society. Promoting research is a key issue at present and one that should not be overlooked!
         
         Want to know more about my PhD ? Here is my presentation during the "3 minutes thesis" competition (in french only) :
-        ** Impact of climate change on global marine ecoystems **
+        **Impact of climate change on global marine ecoystems**  
         {{< [youtube D2vj0WcvH5c](https://www.youtube.com/watch?v=96Kx1-Oygvc) >}}
     
     design:
